@@ -23,7 +23,7 @@
 | Voices | 30 voices across 10 languages |
 | First video | $1.99 one-time for new customers — typed script, up to 20 seconds, 720p |
 | After that | One-time credit packs from $5; purchased credits never expire; no subscription required |
-| Platform | Web app in the browser (no iOS or Android app) |
+| Platform | Web app in the browser |
 
 Current packs and rates: [talkpix.ai/pricing](https://www.talkpix.ai/pricing)
 

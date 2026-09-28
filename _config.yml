@@ -1,3 +1,5 @@
-title: TalkPix — AI Talking Photo Resources
+title: TalkPix
 description: Photo checklist, script templates and API quick start for turning one portrait into a lip-synced talking video.
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap

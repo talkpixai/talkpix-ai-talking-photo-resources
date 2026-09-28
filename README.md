@@ -2,6 +2,8 @@
 
 [TalkPix](https://www.talkpix.ai) turns one portrait and a short script (or an audio clip) into a lip-synced MP4 video in the browser. This repository collects the practical material we point people to: a photo checklist, copy-and-edit scripts, a developer API quick start and the current product facts.
 
+![A portrait photo lip-syncing to a voice recording, made with TalkPix](photo-lip-sync-wav-demo.gif)
+
 ## Contents
 
 - [Product facts](#product-facts)
@@ -103,6 +105,14 @@ Poll `GET /api/v1/videos/{id}` or wait for the webhook, then download `video_url
 ## Responsible use
 
 Only animate photos you have the right to use, with consent from the people in them (or their family, for someone who has passed away). Don't pass a generated clip off as a real recording of someone. Full rules: [Terms](https://www.talkpix.ai/terms)
+
+## Further reading
+
+- [How to make a face talk from a WAV file (audio-driven lip sync)](https://dev.to/talkpixai/how-to-make-a-face-talk-from-a-wav-file-audio-driven-lip-sync-1i92)
+- [How to write a funny talking-pet script](https://talkpixaiweb.substack.com/p/how-to-write-a-funny-talking-pet)
+- [5 short birthday video message scripts](https://talkpixaiweb.substack.com/p/5-short-birthday-video-message-scripts)
+- [What a memorial video should cost](https://talkpixaiweb.substack.com/p/what-a-memorial-video-should-cost)
+
 
 ## Links
 

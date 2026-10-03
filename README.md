@@ -10,6 +10,7 @@
 - [Photo checklist for clean lip sync](#photo-checklist-for-clean-lip-sync)
 - [Script templates](#script-templates)
 - [Guides by use case](#guides-by-use-case)
+- [AI video trend guides](#ai-video-trend-guides)
 - [Developer API quick start](#developer-api-quick-start)
 - [Responsible use](#responsible-use)
 
@@ -83,6 +84,13 @@ For another language, type the script in that language and choose a voice for it
 - Speak in your own cloned voice: [AI voice cloning](https://www.talkpix.ai/ai-voice-cloning)
 - See real renders first: [example videos](https://www.talkpix.ai/ai-video-examples)
 
+## AI video trend guides
+
+Trend templates turn one or two photos into a ready-made scene: a dance, a movie moment, a trip to space. Each guide below shows real renders and what every template needs and costs.
+
+- [AI couple video ideas from two photos](https://talkpixai.github.io/talkpix-ai-talking-photo-resources/ai-couple-video-ideas/): a slow dance in the rain, a rain kiss, a tap duet, a dance lift, Christmas cue cards and a pottery wheel.
+- [All AI video trend templates](https://www.talkpix.ai/trends), each with its own example and price.
+
 ## Developer API quick start
 
 Renders can also be started from your server with the REST API. Create a key in your TalkPix account; API renders use the same credit wallet and rates as the web app, and credits are reserved before each render.
@@ -108,7 +116,6 @@ Only animate photos you have the right to use, with consent from the people in t
 
 ## Further reading
 
-- [How to make a face talk from a WAV file (audio-driven lip sync)](https://dev.to/talkpixai/how-to-make-a-face-talk-from-a-wav-file-audio-driven-lip-sync-1i92)
 - [How to write a funny talking-pet script](https://talkpixaiweb.substack.com/p/how-to-write-a-funny-talking-pet)
 - [5 short birthday video message scripts](https://talkpixaiweb.substack.com/p/5-short-birthday-video-message-scripts)
 - [What a memorial video should cost](https://talkpixaiweb.substack.com/p/what-a-memorial-video-should-cost)
